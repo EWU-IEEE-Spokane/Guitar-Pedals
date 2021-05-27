@@ -10,6 +10,8 @@ Welcome to Guitar-Pedals's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Getting Started <getting_started>
+
 
 
 Indices and tables
