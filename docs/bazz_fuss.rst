@@ -7,6 +7,12 @@ Right now, we have one pedal design ready to go! It's the Bazz-Fuss.
 .. image:: 3DView.PNG
 .. image:: PCB_Layout.PNG
 
+.. raw:: html
+	<audio controls="controls">
+		<source src="soundbyte.wav" type="audio/wav">
+		Your browser does not support the <code>audio</code> element.
+	</audio>
+
 Project materials
 -----------------
 
