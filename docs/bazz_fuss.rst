@@ -1,8 +1,6 @@
 ===============
-Getting Started
+Hi SpaceX! ~==>
 ===============
-
-This is the Guitar Pedals **Getting started** page.
 
 Right now, we have one pedal design ready to go! It's the Bazz-Fuss.
 
