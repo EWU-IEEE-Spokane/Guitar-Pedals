@@ -4,10 +4,23 @@ Bazz Fuss
 
 The Bazz Fuss is a distortion guitar pedal, using an existing design. You can find the original article here: http://home-wrecker.com/bazz.html
 
+Schematic
+---------
+
 .. image:: BazzFussSchematic.PNG
+
+PCB Layout
+----------
 .. image:: BazzFussLayout.PNG
 .. image:: BazzFuss3D.PNG
+
+Finished Board
+--------------
+
 .. image:: BazzFussPhysical.jpg
+
+Sound Bytes
+-----------
 
 .. raw:: html
 
