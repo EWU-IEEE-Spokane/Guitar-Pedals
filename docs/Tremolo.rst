@@ -25,10 +25,10 @@ Cross Section of Enclosure CAD
 
 .. image:: TremoloEnclosure.PNG
 
-.. raw:: html
-
 Sound Bytes
 -----------
+
+.. raw:: html
 
     <audio controls src="_static/soundbyte_mp3.mp3">
       Your browser does not support the <code>audio</code> element.

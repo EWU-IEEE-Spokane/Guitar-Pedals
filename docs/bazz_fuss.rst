@@ -9,8 +9,16 @@ Schematic
 
 .. image:: BazzFussSchematic.PNG
 
+AC Simulation
+-------------
+
+.. image:: BazzFussSimulation.PNG
+
+V<sub>BE</sub> in green, V<sub>CE</sub> in blue.
+
 PCB Layout
 ----------
+
 .. image:: BazzFussLayout.PNG
 .. image:: BazzFuss3D.PNG
 
