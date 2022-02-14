@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "Tremolo_V2.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Enclosure_CAD/Tremolo_V2_Full.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
