@@ -3,20 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Guitar-Pedals's documentation!
+To Mars! ~=>
 =========================================
+
+This is the documentation for the two guitar pedals built for the EWU IEEE club. 
+There are two pedals: the 'Bazz Fuss' which takes a design sourced from homewrecker.com, and the 'Tremolo' pedal, which is a revised version of a design found in an instructables article.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Getting Started <getting_started>
+   Bazz Fuss <bazz_fuss>
+   Tremolo <Tremolo>
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

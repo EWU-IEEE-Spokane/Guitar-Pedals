@@ -1,0 +1,50 @@
+=========
+Bazz Fuss
+=========
+
+The Bazz Fuss is a distortion guitar pedal, using an existing design. You can find the original article here: http://home-wrecker.com/bazz.html
+
+Schematic
+---------
+
+.. image:: BazzFussSchematic.PNG
+
+AC Simulation
+-------------
+
+.. image:: BazzFussSimulation.PNG
+
+V<sub>BE</sub> in green, V<sub>CE</sub> in blue.
+
+PCB Layout
+----------
+
+.. image:: BazzFussLayout.PNG
+.. image:: BazzFuss3D.PNG
+
+Finished Board
+--------------
+
+.. image:: BazzFussPhysical.jpg
+
+Sound Bytes
+-----------
+
+.. raw:: html
+
+    <audio controls src="_static/soundbyte_mp3.mp3">
+      Your browser does not support the <code>audio</code> element.
+    </audio>
+
+
+Project materials
+-----------------
+
+* 2 x Female 1/4 TRS Audio Jack | Digikey: 2223-MJ-63022A-ND
+* 1 x 100k Potentiometer 	| Digikey: PTV09A-4015F-B104-ND
+* 1 x 2N3904 NPN Transistor     | Digikey: 2368-2N3904-ND
+* 1 x 100k Resistor             | Digikey: BC3447CT-ND
+* 1 x 0.1 uF Capacitor          | Digikey: 399-C318C104K5R5TACT-ND
+* 1 x 4.7 uF Capacitor          | Digikey: 445-FK26X7R1C475KR000-ND
+* 1 x 1N914 Diode   		| Digikey: 2197-1N914-ND
+* 1 x Barrel Jack 		| Digikey: CP-002A-ND
